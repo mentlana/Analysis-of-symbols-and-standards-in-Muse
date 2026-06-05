@@ -1,0 +1,18 @@
+
+=== Кластер 0 (узлов: 31) ===
+another, around, break, breaking, chance, change, cold, control, dark, fall, feeling, free, game, got, heart, help, keep, lie, long, lose, mind, mistake, please, rise, show, soul, strength, truth, want, watch, world
+
+=== Кластер 1 (узлов: 27) ===
+afraid, alive, believe, black, broken, burn, cause, dead, die, feel, growing, hope, inside, left, life, light, like, nothing, seen, sky, stand, still, there, think, turn, wait, would
+
+=== Кластер 2 (узлов: 24) ===
+alone, always, anymore, bring, coming, ever, everything, fear, give, gone, good, hold, home, human, leave, love, moment, much, need, pain, save, something, sure, touch
+
+=== Кластер 3 (узлов: 24) ===
+back, end, eye, fight, find, get, god, look, lost, must, pull, see, someone, strong, survive, tell, thing, thought, told, trapped, true, try, wall, way
+
+=== Кластер 4 (узлов: 24) ===
+away, baby, come, could, destroy, erase, faith, falling, forget, go, hear, last, let, number, one, people, place, push, running, say, stop, take, time, wrong
+
+=== Кластер 5 (узлов: 20) ===
+babe, behind, care, done, dream, drone, face, gon, hide, kill, killed, know, late, loved, make, memory, never, new, run, war
